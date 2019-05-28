@@ -1,8 +1,14 @@
 import React from 'react'
-import { Ellipsis } from 'test-repo'
+import { Ellipsis, Ring, Ripple } from 'test-repo'
 
 function App () {
-  return <Ellipsis />
+  return (
+    <>
+      <Ellipsis />
+      <Ring />
+      <Ripple />
+    </>
+  )
 }
 
 export default App
