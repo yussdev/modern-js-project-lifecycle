@@ -1,5 +1,5 @@
 {
-  "name": "test-repo",
+  "name": "modern-js-project-lifecycle",
   "version": "1.0.0",
   "description": "Modern JS Project Life Cycle",
   "main": "dist/bundle.cjs.js",
